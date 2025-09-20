@@ -17,19 +17,30 @@ This project implements an **EEG-based emotion recognition system** that classif
 - **High Performance**: 90.8% accuracy with 0.92 F1-score
 - **Real-time Processing**: Optimized for 1-second EEG windows
 - **Comprehensive Evaluation**: Detailed metrics and visualizations
+
+### 📊 Performance Results
+
+<div align="center">
+
 **Model Performance Visualization**
-  
-<div align="center">
+
 <img width="800" alt="Model Performance" src="https://github.com/user-attachments/assets/6974eb40-4b8d-4c83-a7bb-d59fba9b8f5d" />
-*Figure 1: Confusion matrix*
+
+*Figure 1: Comprehensive model performance metrics and evaluation results*
+
 </div>
+
+### 📈 Training Progress
 
 <div align="center">
-**Training and Validation Metrics**
-<img width="600" alt="Training Progress" src="https://github.com/user-attachments/assets/f75da091-8e0c-4394-b2f8-32e300ce3854" />
-*Figure 2: Training loss and accuracy curves over epochs*
-</div>
 
+**Training and Validation Metrics**
+
+<img width="600" alt="Training Progress" src="https://github.com/user-attachments/assets/f75da091-8e0c-4394-b2f8-32e300ce3854" />
+
+*Figure 2: Training loss and accuracy curves over epochs*
+
+</div>
 
 ## Architecture
 
