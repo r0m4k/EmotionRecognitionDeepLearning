@@ -72,25 +72,6 @@ NumPy, Pandas, Matplotlib
 Scikit-learn
 Seaborn
 ```
-## Project Structure
-
-```
-EEG_project/
-├── data/
-│   ├── raw/
-│   │   ├── SEED/
-│   │   ├── French/
-│   │   └── German/
-│   └── processed/
-│       ├── SEED/
-│       ├── French/
-│       ├── German/
-│       └── SEED-Uni/
-├── models/
-│   └── model.pt
-├── eeg.ipynb
-└── README.md
-```
 
 ## Key Technical Details
 
