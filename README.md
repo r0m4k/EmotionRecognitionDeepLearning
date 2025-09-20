@@ -141,4 +141,4 @@ This system can be applied in:
 - **Gaming**: Emotion-aware gaming experiences
 - **Research**: Affective computing studies
 
-WARNING: DATASET IS NOT INCLUDED DUE TO ITS LARGE SIZE. PLEASE EMAIL ME (R.DOLGOPOLYI@ACG.EDU) IF YOU WOULD LIKE TO OBTAIN IT. 
+Warning: dataset is not included due to its large size. Please email me - r.dolgopolyi@acg.edu - if you would like to obtain it.
