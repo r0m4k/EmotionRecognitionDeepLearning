@@ -8,7 +8,7 @@
 
 ## Overview
 
-This project implements a state-of-the-art **EEG-based emotion recognition system** that classifies human emotions into three categories: **Positive**, **Neutral**, and **Negative** using brain signal data. The system combines Convolutional Neural Networks (CNN) with Transformer architecture to achieve superior performance on emotion classification tasks.
+This project implements an **EEG-based emotion recognition system** that classifies human emotions into three categories: **Positive**, **Neutral**, and **Negative** using brain signal data. The system combines Convolutional Neural Networks (CNN) with Transformer architecture to achieve superior performance on emotion classification tasks.
 
 ### Key Features
 
@@ -18,7 +18,7 @@ This project implements a state-of-the-art **EEG-based emotion recognition syste
 - **Real-time Processing**: Optimized for 1-second EEG windows
 - **Comprehensive Evaluation**: Detailed metrics and visualizations
 
-## 🏗Architecture
+## Architecture
 
 ### Model Components
 
@@ -138,4 +138,3 @@ This system can be applied in:
 - **Human-Computer Interaction**: Adaptive interfaces
 - **Gaming**: Emotion-aware gaming experiences
 - **Research**: Affective computing studies
-**⭐ Star this repository if you find it helpful!**
