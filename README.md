@@ -18,6 +18,10 @@ This project implements an **EEG-based emotion recognition system** that classif
 - **Real-time Processing**: Optimized for 1-second EEG windows
 - **Comprehensive Evaluation**: Detailed metrics and visualizations
 
+<img width="2970" height="2370" alt="1" src="https://github.com/user-attachments/assets/6974eb40-4b8d-4c83-a7bb-d59fba9b8f5d" />
+
+<img width="1189" height="690" alt="2" src="https://github.com/user-attachments/assets/f75da091-8e0c-4394-b2f8-32e300ce3854" />
+
 ## Architecture
 
 ### Model Components
