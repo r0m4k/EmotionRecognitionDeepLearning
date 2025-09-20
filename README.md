@@ -74,7 +74,7 @@ Classification Head (3 emotion classes)
     
 <img width="600" alt="3" src="https://github.com/user-attachments/assets/74bc1529-3365-4449-b39d-40c25e6785d6" />
 
-*Figure 3: Dataset visualisation*
+*Figure 3: Dataset distribution*
 </div>
 
 | Dataset | Samples | Distribution | Language |
