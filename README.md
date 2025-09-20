@@ -62,15 +62,6 @@ Classification Head (3 emotion classes)
 - **Best Epoch**: 18
 - **Training Time**: ~100 epochs
 
-### Confusion Matrix Results
-```
-                Predicted
-Actual    Negative  Neutral  Positive
-Negative      X        X        X
-Neutral       X        X        X  
-Positive      X        X        X
-```
-
 ## Installation & Setup
 
 ### Prerequisites
@@ -101,7 +92,7 @@ EEG_project/
 └── README.md
 ```
 
-## 📈 Key Technical Details
+## Key Technical Details
 
 ### Data Processing Pipeline
 1. **Signal Extraction**: 1-second EEG windows from 62 electrodes
