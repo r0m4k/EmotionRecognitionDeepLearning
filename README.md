@@ -70,6 +70,10 @@ Classification Head (3 emotion classes)
 - **Output**: 3-class emotion classification
 
 ## Dataset Information
+<div align="center">
+<img width="600" alt="3" src="https://github.com/user-attachments/assets/74bc1529-3365-4449-b39d-40c25e6785d6" />
+*Figure 3: Dataset visualisation*
+</div>
 
 | Dataset | Samples | Distribution | Language |
 |---------|---------|-------------|----------|
