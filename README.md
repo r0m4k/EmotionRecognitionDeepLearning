@@ -87,7 +87,7 @@ Classification Head (3 emotion classes)
 ## Performance Results
 
 ### Model Performance
-- **Validation Accuracy**: 90.8%
+- **Validation Accuracy**: 92.2%
 - **F1-Score**: 0.92 (weighted)
 - **Best Epoch**: 18
 - **Training Time**: ~100 epochs
