@@ -14,7 +14,7 @@ This project implements an **EEG-based emotion recognition system** that classif
 
 - **Multi-dataset Support**: SEED, SEED-French, and SEED-German datasets
 - **Advanced Architecture**: CNN-Transformer hybrid model
-- **High Performance**: 90.8% accuracy with 0.92 F1-score
+- **High Performance**: 92.2% accuracy with 0.92 F1-score
 - **Real-time Processing**: Optimized for 1-second EEG windows
 - **Comprehensive Evaluation**: Detailed metrics and visualizations
 
